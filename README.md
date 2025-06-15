@@ -9,7 +9,8 @@
 امن، سریع و پایدار  
 مناسب برای شرایط فیلترینگ سنگین
 
-https://t.me/proxy?server=161.35.153.230&port=85&secret=DDBighLLvXrFGRMCBVJdFQ==
+https://t.me/proxy?server=157.180.119.113&port=132&secret=1320PuNyHw_LQKT_Y7XNJw==
+
 
 📦 **جهت خرید وی‌پی‌ان از ما:**  
 در تلگرام پیام بدید به آیدی زیر 👇 
